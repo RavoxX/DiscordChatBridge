@@ -1,0 +1,6 @@
+discord:
+  token: ""
+  channelId: 0
+format:
+  discordToMc: "(discord) <user>: <message>"
+  mcToDiscord: "<user>: <message>"

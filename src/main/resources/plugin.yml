@@ -1,0 +1,5 @@
+name: DiscordChatBridge
+version: '1.0-SNAPSHOT'
+main: com.ravoxx.discordChatBridge.DiscordChatBridge
+api-version: '1.21'
+authors: [ RavoxX ]
